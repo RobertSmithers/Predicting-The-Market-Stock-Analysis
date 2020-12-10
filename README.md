@@ -14,4 +14,4 @@ To run the classification, use
 
 In classification.py, you can explore and evaluate your model with $100 in paper money on any stock.
 Example testing a basic CNN on APPL stock:
-![alt text](https://github.com/RobertSmithers/Predicting-The-Market-Stock-Analysis/blob/main/images/AAPL-CNN-rate-price.jpeg?raw=true)
+![Model Returns on GSPC](https://github.com/RobertSmithers/Predicting-The-Market-Stock-Analysis/blob/main/images/^GSPC-SVM-rate-price.jpeg?raw=true)
